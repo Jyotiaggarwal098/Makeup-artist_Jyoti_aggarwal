@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+#head{
+    font-size: 3rem;
+    padding-top: 5rem;
+}
+#subhead{
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+.about{
+    width: 70%;
+}
+.profile{
+    padding-top: 50px;
+    width: 10rem;
+}
+.hrs{
+    border-top: dotted
+    black 6px;
+    width: 2%;
+    margin:5rem auto 5rem auto;
+    border-spacing: 3;
+    
+}
+#ab{
+    padding-top: 50px;
+    width: 20rem;
+    padding-left: 10px;border-radius: 100%;
+
+}
+.air{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#aba{
+    padding-top: 50px;
+    width: 20rem;
+    padding-left: 10px;border-radius: 100%;
+
+}
+#abb{
+    padding-top: 50px;
+    width: 20rem;
+    padding-left: 10px;border-radius: 100%;
+
+}
+.copy{
+    color: white;
+    padding-top: 5rem;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.imgn{
+    width: 2.5rem;
+}
